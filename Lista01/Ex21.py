@@ -1,0 +1,5 @@
+qtdeLata = int(input("Por favor, insira a quantidade de latinhas compradas: "))
+qtdeGarrafaPequena = int(input("Por favor, insira a quantidade de garrafas pequenas compradas: "))
+qtdeGarrafaGrande = int(input("Por favor, insira a quantidade de garrafas grandes compradas: "))
+totalLitros = (qtdeLata * 0.35) + (qtdeGarrafaPequena * 0.6) + (qtdeGarrafaGrande * 2)
+print("O total de Litros comprado é: ", totalLitros)

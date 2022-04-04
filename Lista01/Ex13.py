@@ -1,6 +1,3 @@
-from ast import And
-
-
 Lado1 = int(input("Insira o lado 1: "))
 Lado2 = int(input("Insira o lado 2: "))
 Lado3 = int(input("Insira o lado 3: "))
